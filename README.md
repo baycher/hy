@@ -15,7 +15,7 @@
 
 ### 🌗 Development Breakdown
 
-<img src="https://komarev.com/ghpvc/?username=dmego" alt="dmego" />
+<img src="https://komarev.com/ghpvc/?username=BayCher" alt="dmego" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C404%20hrs%204%20mins-blue)
